@@ -1,22 +1,26 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 # 💫 Hi, I'm Maryam Bilal!
-A passionate **MERN Stack Developer** . I build clean, responsive, and scalable web apps using **MongoDB, Express.js, React.js, Node.js**.  
-I love learning, improving, and working on real-world projects. 🚀
+A passionate **Mern Stack developer**. I build clean, responsive, and scalable web apps. 🚀  
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&width=500&lines=Node.js;React.js;MongoDB;Express.js" />
+</div>
 
 ---
 
 ## 🚀 About Me
 - 🎓 **250-credit-hour MERN Stack Training (NAVTTC)**  
 - 💻 Built full-stack projects like:  
-  - [Learning Management System (MERN)](https://github.com/maryam-bilal2/Learning-management-systems-)  
+  - Learning Management System (MERN)  
+  - Food Delivery Application  
+  - Healthcare Appointment App  
 - 🌱 Currently learning **Advanced React Patterns & Backend Optimization**  
 - 🎯 Seeking **Junior MERN Developer / Paid Internship** roles  
 - ⚡ Focused on **UI/UX, clean architecture & reusable components**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -44,17 +48,23 @@ I love learning, improving, and working on real-world projects. 🚀
 
 ## 📂 Featured Projects
 
-### 🔹 [Learning Management System (MERN)](https://github.com/YOUR_USERNAME/LMS-MERN)
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/LMS-MERN" target="_blank">
-    <img src="https://i.imgur.com/kNI8l3t.png" alt="LMS Project" width="300" />
-  </a>
-</p>
-- JWT Authentication + Role-based Access  
-- Course management & enrollment  
-- React Redux Toolkit UI & REST APIs  
+### 🔹 Learning Management System (MERN)  
+**Overview:**  
+A full-stack online learning platform. Students can enroll in courses, track progress, and access learning materials. Admins can manage courses, students, and instructors.  
+- **Key Features:** JWT Authentication, Role-based Access, Course Management  
+- **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux Toolkit  
 
-> ⚡ **Tip:** When you upload new projects, just copy this block and update the links & image!
+### 🔹 Food Delivery Application  
+**Overview:**  
+A web app for ordering food online. Users can browse menus, add items to a cart, and place orders. Admins can manage menu items and track orders.  
+- **Key Features:** Cart, Payment Flow, Admin Dashboard  
+- **Tech Stack:** MERN Stack, Redux, Stripe API  
+
+### 🔹 Healthcare Appointment App (React.js)  
+**Overview:**  
+A responsive app for booking healthcare appointments. Patients can schedule appointments with doctors, and admins can manage schedules and bookings.  
+- **Key Features:** Appointment Booking, Form Validation, Responsive Design  
+- **Tech Stack:** React.js, Tailwind CSS, REST APIs  
 
 ---
 
