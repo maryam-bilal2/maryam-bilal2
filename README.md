@@ -8,6 +8,17 @@ Focused on clean UI, secure APIs, and real-world problem solving.
 
 ## 🚀 Featured Projects
 
+### 🔹 Learning Management System (MERN)
+- Role-based authentication (Admin / User)
+- Course management dashboard
+- Enrollment system with protected APIs
+- Redux Toolkit for state management
+
+🔗 Live: https://your-lms-link.com  
+🔗 Code: https://learning-management-system-delta-blue.vercel.app/
+
+---
+
 ### 🔹 AI Cold Email Generator (MERN + SaaS)
 - AI-powered email generation system for outreach & hiring
 - JWT Authentication & protected routes
@@ -21,16 +32,7 @@ Focused on clean UI, secure APIs, and real-world problem solving.
 
 ---
 
-### 🔹 Learning Management System (MERN)
-- Role-based authentication (Admin / User)
-- Course management dashboard
-- Enrollment system with protected APIs
-- Redux Toolkit for state management
 
-🔗 Live: https://your-lms-link.com  
-🔗 Code: https://learning-management-system-delta-blue.vercel.app/
-
----
 
 ### 🔹 LifeMediCare Appointment App (React)
 - Appointment booking system
