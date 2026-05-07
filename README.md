@@ -28,7 +28,7 @@ Focused on clean UI, secure APIs, and real-world problem solving.
 - Redux Toolkit for state management
 
 🔗 Live: https://your-lms-link.com  
-🔗 Code: https://github.com/maryam-bilal2/lms-project
+🔗 Code: https://learning-management-system-delta-blue.vercel.app/
 
 ---
 
