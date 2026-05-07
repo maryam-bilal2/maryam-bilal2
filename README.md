@@ -12,9 +12,7 @@ Focused on clean UI, secure APIs, and real-world problem solving.
 - Role-based authentication (Admin / User)
 - Course management dashboard
 - Enrollment system with protected APIs
-- Redux Toolkit for state management
-
-🔗 Live: https://your-lms-link.com  
+- Redux Toolkit for state management 
 🔗 Code: https://learning-management-system-delta-blue.vercel.app/
 
 ---
@@ -26,8 +24,6 @@ Focused on clean UI, secure APIs, and real-world problem solving.
 - MongoDB for user & email storage
 - Clean responsive UI with React + Tailwind
 - SaaS-ready structure (scalable architecture)
-
-🔗 Live: https://your-live-link.com  
 🔗 Code: https://github.com/maryam-bilal2/ai-cold-email-generator
 
 ---
@@ -38,8 +34,6 @@ Focused on clean UI, secure APIs, and real-world problem solving.
 - Appointment booking system
 - Form validation & smooth UX
 - Mobile-first responsive design
-
-🔗 Live: https://your-link.com  
 🔗 Code: https://github.com/maryam-bilal2/lifemedicare
 
 ---
@@ -59,6 +53,6 @@ Focused on clean UI, secure APIs, and real-world problem solving.
 
 ## 🌐 Connect With Me
 - LinkedIn: https://linkedin.com/in/maryam-bilal9
-- Portfolio: https://portfoliomaryam-bilal.vercel.app/
+- Portfolio:portfoliomaryam-bilal.vercel.app/
 
 ---
