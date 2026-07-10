@@ -7,7 +7,7 @@
 Building modern, scalable web applications with a focus on clean architecture, exceptional user experience, and secure backend systems.
 
 <p align="center">
-<a href="https://portfoliomaryam-bilal.vercel.app/">Portfolio</a> •
+<a href="https://maryamdeveloper.vercel.app/">Portfolio</a> •
 <a href="https://linkedin.com/in/maryam-bilal9">LinkedIn</a> •
 <a href="https://github.com/maryam-bilal2">GitHub</a>
 </p>
@@ -140,7 +140,7 @@ https://github.com/maryam-bilal2/lifemedicare
 
 ## Connect
 
-* 🌐 Portfolio — https://portfoliomaryam-bilal.vercel.app/
+* 🌐 Portfolio — https://maryamdeveloper.vercel.app/
 * 💼 LinkedIn — https://linkedin.com/in/maryam-bilal9
 * 📧 Open to Full Stack Developer opportunities, freelance projects, and collaborations.
 
