@@ -2,288 +2,283 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=MARYAM%20BILAL&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=16"/>
+# MARYAM BILAL
 
-### `Designing interfaces. Engineering systems. Solving real problems.`
+### FULL STACK DEVELOPER
+
+**I build digital products from interface to infrastructure.**
 
 <br>
 
+`REACT`   `NODE.JS`   `EXPRESS`   `MONGODB`   `MYSQL`
+
+<br><br>
+
 <a href="https://maryamdeveloper.vercel.app/">
-<img src="https://img.shields.io/badge/%E2%86%92%20Portfolio-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=flat-square"/>
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/maryam-bilal9">
-<img src="https://img.shields.io/badge/%E2%86%92%20LinkedIn-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://github.com/maryam-bilal2">
-<img src="https://img.shields.io/badge/%E2%86%92%20GitHub-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+REST+APIs+%7C+JWT+%7C+RBAC;Building+Business-Focused+Web+Applications;From+Frontend+to+Backend+%E2%80%94+End+to+End"/>
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1800&color=64748B&center=true&vCenter=true&width=720&lines=Full+Stack+Web+Applications;Secure+REST+APIs;JWT+%2B+RBAC+Architecture;Business+Focused+Software"/>
 
 </div>
 
 ---
-
-# `01` — WHO I AM
-
-I'm a **Full Stack Developer with 1 year of hands-on experience** building scalable web applications and business-focused solutions.
-
-I work across the entire development lifecycle — from designing responsive React interfaces to engineering REST APIs, authentication systems, database workflows and third-party integrations.
-
-My focus is simple:
-
-> **Build software that is reliable, maintainable, secure, and genuinely useful.**
-
-### Engineering Focus
-
-```text
-Frontend        → React.js · Redux Toolkit · Tailwind CSS
-Backend         → Node.js · Express.js · REST APIs
-Authentication  → JWT · RBAC · Protected Routes
-Databases       → MongoDB · Mongoose · MySQL
-Integrations    → Stripe · Cloudinary · Nodemailer
-Engineering    → Validation · Error Handling · API Security
-Tools           → Git · GitHub · Postman · Docker
-Deployment      → Hostinger · cPanel · Environment Configuration
-```
-
----
-
-# `02` — WHAT I BUILD
 
 <div align="center">
 
-### `FULL STACK`
-
-**Frontend → API → Authentication → Database → Integrations → Deployment**
+### `01 — PROFILE`
 
 </div>
 
-<br>
+I'm a **Full Stack Developer with 1 year of hands-on experience** building scalable web applications and business-focused solutions.
+
+I work across the stack — designing responsive interfaces, engineering REST APIs, implementing authentication and authorization, modeling databases, integrating third-party services, and connecting everything into reliable application workflows.
+
+I care about three things:
+
+**clarity in the interface · structure in the code · reliability in the product**
+
+---
+
+<div align="center">
+
+### `02 — ENGINEERING MINDSET`
+
+</div>
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                    APPLICATION LAYER                     │
-│                                                          │
-│     React.js  •  Redux Toolkit  •  Tailwind CSS         │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                       API LAYER                          │
-│                                                          │
-│       Node.js  •  Express  •  REST APIs  •  JWT         │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                    BUSINESS LOGIC                        │
-│                                                          │
-│       RBAC  •  Validation  •  Error Handling            │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                     DATA LAYER                           │
-│                                                          │
-│          MongoDB / Mongoose  •  MySQL                    │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                    INTEGRATIONS                          │
-│                                                          │
-│        Stripe  •  Cloudinary  •  Nodemailer              │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+              USER EXPERIENCE
+                     │
+                     ▼
+             ┌───────────────┐
+             │   React.js    │
+             │ Redux Toolkit │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   REST API    │
+             │    Express    │
+             └───────┬───────┘
+                     │
+          ┌──────────┴──────────┐
+          ▼                     ▼
+   ┌─────────────┐       ┌─────────────┐
+   │    JWT      │       │    RBAC     │
+   │    AUTH     │       │ AUTHORIZATION│
+   └─────────────┘       └─────────────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   DATABASE    │
+             │ MongoDB/MySQL │
+             └───────┬───────┘
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+       Stripe    Cloudinary  Nodemailer
 ```
 
+**Frontend → API → Business Logic → Security → Database → Integrations**
+
+That's the layer of development I enjoy working in.
+
 ---
 
-# `03` — FEATURED WORK
+<div align="center">
 
-## `01 /` Learning Management System
+### `03 — SELECTED WORK`
 
-### `MERN · JWT · RBAC · Redux Toolkit · Stripe · Cloudinary`
+</div>
 
-A full-stack learning platform engineered around **Admin, Instructor and Student workflows**.
+## 01 / LEARNING MANAGEMENT SYSTEM
 
-**What I built**
+**MERN · Redux Toolkit · JWT · RBAC · Stripe · Cloudinary**
 
-* Role-based authentication with JWT & RBAC
-* Protected routes and API security
-* Complete course CRUD
-* Enrollment & course progress tracking
+> A full-stack learning platform built around separate Admin, Instructor and Student workflows.
+
+### Product
+
+* Course management & CRUD
+* Enrollment & progress tracking
 * Search, filtering, sorting & pagination
 * Reviews & ratings
-* Stripe payment integration
-* Cloudinary media management
-* Nodemailer email notifications
-* Admin analytics dashboard
-* Redux Toolkit state management
+* Admin analytics
+* Responsive dashboard experience
+
+### Engineering
+
+* JWT authentication
+* Role-based access control
+* Protected routes
 * Centralized error handling
-* Reusable responsive React architecture
+* API security
+* Reusable React architecture
+* Redux Toolkit state management
+* Modular REST API architecture
 
-**Architecture**
+### Integrations
 
-`React` → `REST API` → `Express` → `MongoDB`
+`STRIPE` `CLOUDINARY` `NODEMAILER`
 
-**Live Application**
-
-**https://learning-management-system-delta-blue.vercel.app/**
+**Live →** https://learning-management-system-delta-blue.vercel.app/
 
 ---
 
-## `02 /` Restaurant Management System
+## 02 / RESTAURANT MANAGEMENT SYSTEM
 
-### `MERN · RBAC · Redux Toolkit · Tailwind · REST APIs`
+**MERN · Redux Toolkit · JWT · RBAC · Tailwind CSS**
 
-A business-focused restaurant platform for managing **menus, users, orders and daily operations**.
+> A business management platform designed around restaurant operations, order workflows and administrative control.
 
-**What I built**
+### Product
 
-* Admin & Staff/User workflows
-* JWT authentication & RBAC
-* Menu & category CRUD
-* Search, filtering & pagination
+* Menu & category management
 * Cart & order processing
 * Order status tracking
-* Sales & order analytics
+* Search, filtering & pagination
 * User management
+* Sales & order analytics
+
+### Engineering
+
+* Admin & Staff/User workflows
+* JWT authentication
+* RBAC
 * Protected routes
 * API validation
 * Centralized error handling
 * Loading & empty states
-* Nodemailer order notifications
-* Responsive Tailwind interface
+* Reusable React components
 
-**Architecture**
+### Integrations
 
-`React` → `REST API` → `Express` → `MongoDB`
+`NODEMAILER` `REST APIs`
 
 ---
 
-## `03 /` On-Demand Food Delivery App
+## 03 / ON-DEMAND FOOD DELIVERY
 
-### `React · PHP · MySQL · REST APIs · Stripe`
+**React · PHP · MySQL · REST APIs · Stripe**
 
-An end-to-end food delivery platform covering the complete customer ordering lifecycle.
+> An end-to-end food delivery application covering browsing, checkout, payments and order management.
 
-**What I built**
+### Product
 
-* Authentication
 * Restaurant & menu browsing
 * Search & filtering
 * Shopping cart
-* Checkout workflow
-* Stripe online payments
+* Checkout
 * Order history
 * Order tracking
 * Order status management
 * Admin controls
-* Database-driven management
+
+### Engineering
+
+* Database-driven workflows
+* REST API communication
 * Form validation
 * Error handling
-* Responsive reusable components
+* Reusable React components
+* Responsive UI
 
-**Architecture**
+### Integrations
 
-`React` → `REST APIs` → `PHP` → `MySQL`
+`STRIPE` `MYSQL`
 
 ---
-
-# `04` — TECHNICAL STACK
 
 <div align="center">
 
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind"/>
-
-<br>
-
-`HTML5` · `CSS3` · `JavaScript` · `React.js` · `Redux Toolkit` · `Tailwind CSS`
-
-<br><br>
-
-### BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
-
-<br>
-
-`Node.js` · `Express.js` · `PHP` · `REST APIs` · `JWT` · `Authentication`
-
-<br><br>
-
-### DATABASE
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-<br>
-
-`MongoDB` · `Mongoose` · `MySQL`
-
-<br><br>
-
-### ENGINEERING & TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker"/>
-
-<br>
-
-`Git` · `GitHub` · `Postman` · `VS Code` · `Docker`
+### `04 — TECHNOLOGY`
 
 </div>
 
----
-
-# `05` — ENGINEERING CAPABILITIES
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Security
+### FRONTEND
 
-* JWT Authentication
-* Role-Based Access Control
-* Protected Routes
-* API Authorization
-* Validation
+**React.js**
+**Redux Toolkit**
+**Tailwind CSS**
+**JavaScript**
+**HTML5 / CSS3**
+**Responsive Design**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Backend
+### BACKEND
 
-* REST API Architecture
-* CRUD Operations
-* Centralized Error Handling
-* Pagination
-* Search & Filtering
+**Node.js**
+**Express.js**
+**REST APIs**
+**JWT Authentication**
+**PHP**
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td valign="top">
 
-### 💳 Integrations
+### DATA
 
-* Stripe Payments
-* Cloudinary
-* Nodemailer
-* Environment Configuration
+**MongoDB**
+**Mongoose**
+**MySQL**
 
 </td>
 
-<td>
+<td valign="top">
 
-### 🎨 Frontend
+### ENGINEERING
 
-* Responsive Interfaces
-* Reusable Components
-* Redux Toolkit
-* Loading States
-* Empty States
+**RBAC**
+**API Validation**
+**Error Handling**
+**Protected Routes**
+**API Security**
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### INTEGRATIONS
+
+**Stripe**
+**Cloudinary**
+**Nodemailer**
+
+</td>
+
+<td valign="top">
+
+### TOOLING
+
+**Git**
+**GitHub**
+**Postman**
+**VS Code**
+**Docker**
+**Hostinger**
+**cPanel**
 
 </td>
 </tr>
@@ -291,13 +286,61 @@ An end-to-end food delivery platform covering the complete customer ordering lif
 
 ---
 
-# `06` — GITHUB ACTIVITY
+<div align="center">
+
+### `05 — HOW I APPROACH A PRODUCT`
+
+</div>
+
+```text
+01  Understand
+    ↓
+    Requirements → Users → Business Logic
+
+02  Design
+    ↓
+    UI → Components → Data Flow → API Contract
+
+03  Engineer
+    ↓
+    Frontend → Backend → Database → Authentication
+
+04  Integrate
+    ↓
+    Payments → Media → Email → External Services
+
+05  Harden
+    ↓
+    Validation → Error Handling → Protected Routes
+
+06  Deliver
+    ↓
+    Git → Testing → Environment → Deployment
+```
+
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maryam-bilal2&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+### `06 — CURRENTLY EXPLORING`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bilal2&layout=compact&hide_border=true&theme=transparent"/>
+</div>
+
+**NEXT.JS**   ·   **POSTGRESQL**   ·   **SYSTEM DESIGN**
+
+Currently expanding my knowledge toward **scalable application architecture and production-oriented development workflows.**
+
+---
+
+<div align="center">
+
+### `07 — GITHUB`
+
+<br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maryam-bilal2&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bilal2&layout=compact&hide_border=true&theme=transparent"/>
 
 <br><br>
 
@@ -307,101 +350,31 @@ An end-to-end food delivery platform covering the complete customer ordering lif
 
 ---
 
-# `07` — CURRENTLY EXPLORING
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   Next.js                                   │
-│   PostgreSQL                                │
-│   System Design                             │
-│   Scalable Application Architecture        │
-│   Production Development Workflows         │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-Continuously improving my understanding of **scalable architecture, backend engineering and production-ready development**.
-
----
-
-# `08` — THE DEVELOPER BEHIND THE CODE
-
-```javascript
-const maryam = {
-    role: "Full Stack Developer",
-
-    frontend: [
-        "React.js",
-        "Redux Toolkit",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "REST APIs"
-    ],
-
-    databases: [
-        "MongoDB",
-        "MySQL"
-    ],
-
-    security: [
-        "JWT",
-        "RBAC",
-        "Protected Routes"
-    ],
-
-    integrations: [
-        "Stripe",
-        "Cloudinary",
-        "Nodemailer"
-    ],
-
-    mindset: "Build → Solve → Improve → Scale"
-};
-```
-
----
-
-# `09` — LET'S BUILD SOMETHING
-
 <div align="center">
 
-### Open to Full Stack / MERN Developer opportunities,
+### `08 — LET'S BUILD`
 
-### freelance projects & meaningful collaborations.
+<br>
+
+**Open to Full Stack / MERN Developer opportunities,
+freelance projects and meaningful collaborations.**
 
 <br>
 
 <a href="https://maryamdeveloper.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-2563EB?style=for-the-badge"/>
 </a>
 
 <br><br>
 
-<a href="mailto:bilalmaryam980@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:bilalmaryam980@gmail.com">EMAIL</a>
+  ·   <a href="https://linkedin.com/in/maryam-bilal9">LINKEDIN</a>
+  ·   <a href="https://github.com/maryam-bilal2">GITHUB</a>
 
-<a href="https://linkedin.com/in/maryam-bilal9">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+<br><br>
 
 ---
 
-<div align="center">
-
-<br>
-
-**`Build software. Solve problems. Create impact.`**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/>
+### `Build with intention. Engineer with clarity.`
 
 </div>
