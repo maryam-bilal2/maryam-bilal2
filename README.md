@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1120&height=220&section=header&text=MARYAM%20BILAL&fontSize=52&fontColor=F8FAFC&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20STACK&descSize=17&descAlignY=64&descColor=94A3B8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:2563EB&height=190&section=header&text=MARYAM%20BILAL&fontSize=52&fontColor=F8FAFC&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20STACK&descSize=17&descAlignY=64&descColor=CBD5E1"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Engineering+Secure+REST+APIs;React+%7C+Node.js+%7C+MongoDB;JWT+%7C+RBAC+%7C+Stripe+%7C+Cloudinary"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+Modern+Web+Applications;Engineering+Secure+REST+APIs;React+%7C+Node.js+%7C+MongoDB;JWT+%7C+RBAC+%7C+Stripe+%7C+Cloudinary"/>
 
 <br><br>
 
@@ -30,13 +30,16 @@
 
 <div align="center">
 
-## ✦ BUILDING SOFTWARE THAT SOLVES REAL PROBLEMS
+## ✦ FULL STACK DEVELOPER
+
+### `Building products from interface to backend.`
 
 <br>
 
 <table>
 <tr>
-<td align="center" width="180">
+
+<td align="center" width="190">
 
 ### ⚛️
 
@@ -48,7 +51,7 @@ Tailwind CSS
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="190">
 
 ### ⚙️
 
@@ -60,7 +63,7 @@ REST APIs
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="190">
 
 ### 🔐
 
@@ -72,21 +75,34 @@ Protected APIs
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="190">
 
 ### 🗄️
 
-**DATA**
+**DATABASE**
 
 MongoDB
 Mongoose
 MySQL
 
 </td>
+
 </tr>
 </table>
 
 </div>
+
+---
+
+# ✦ ABOUT
+
+I'm a **Full Stack Developer with 1 year of hands-on experience** building scalable web applications and business-focused solutions.
+
+I work across the stack — from responsive React interfaces and reusable components to REST APIs, authentication, authorization, databases and third-party integrations.
+
+### `My approach`
+
+**Clean UI → Structured APIs → Secure Architecture → Reliable Data → Real Business Workflows**
 
 ---
 
@@ -97,38 +113,52 @@ MySQL
 
 <td width="50%" valign="top">
 
-<h2>🎓 Learning Management System</h2>
+## 🎓 LMS
+
+### Learning Management System
 
 <img src="https://img.shields.io/badge/MERN-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/RBAC-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/RBAC-0F172A?style=flat-square"/>
 <img src="https://img.shields.io/badge/Stripe-2563EB?style=flat-square"/>
 
 <br><br>
 
-Role-based learning platform with:
+A role-based learning platform with dedicated **Admin, Instructor and Student** workflows.
 
-* Admin / Instructor / Student
-* Course CRUD
-* Enrollment & progress
-* Search & filtering
-* Reviews & ratings
-* Analytics dashboard
-* Protected APIs
-* Cloudinary uploads
-* Email workflows
+**Core**
+
+• Course CRUD
+• Enrollment & progress
+• Search & filtering
+• Reviews & ratings
+• Admin analytics
+
+**Engineering**
+
+• JWT + RBAC
+• Protected routes
+• Redux Toolkit
+• API security
+• Centralized errors
+
+**Integrations**
+
+`Stripe` `Cloudinary` `Nodemailer`
 
 <br>
 
 <a href="https://learning-management-system-delta-blue.vercel.app/">
-<img src="https://img.shields.io/badge/↗%20LIVE%20PROJECT-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-2563EB?style=for-the-badge"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2>🍽️ Restaurant Management</h2>
+## 🍽️ RMS
+
+### Restaurant Management System
 
 <img src="https://img.shields.io/badge/MERN-0F172A?style=flat-square"/>
 <img src="https://img.shields.io/badge/RBAC-2563EB?style=flat-square"/>
@@ -137,18 +167,27 @@ Role-based learning platform with:
 
 <br><br>
 
-Business management platform with:
+A business-focused platform for managing restaurant operations, orders and users.
 
-* Admin & Staff workflows
-* Menu management
-* Cart & orders
-* Order tracking
-* Sales analytics
-* User management
-* Search & pagination
-* Protected routes
-* API validation
-* Email notifications
+**Core**
+
+• Menu & categories
+• Cart & order processing
+• Order tracking
+• Search & pagination
+• Sales analytics
+
+**Engineering**
+
+• JWT + RBAC
+• Protected routes
+• API validation
+• Error handling
+• Reusable components
+
+**Integrations**
+
+`Nodemailer` `REST APIs`
 
 </td>
 
@@ -158,7 +197,9 @@ Business management platform with:
 
 <td width="50%" valign="top">
 
-<h2>🍔 Food Delivery App</h2>
+## 🍔 FOOD DELIVERY
+
+### On-Demand Food Delivery App
 
 <img src="https://img.shields.io/badge/React-0F172A?style=flat-square"/>
 <img src="https://img.shields.io/badge/PHP-2563EB?style=flat-square"/>
@@ -167,33 +208,57 @@ Business management platform with:
 
 <br><br>
 
-End-to-end ordering platform featuring:
+End-to-end food ordering platform covering browsing, checkout, payments and order management.
 
-* Restaurant browsing
-* Search & filtering
-* Shopping cart
-* Checkout
-* Stripe payments
-* Order history
-* Order tracking
-* Admin controls
-* Database-driven workflows
+**Core**
+
+• Restaurant browsing
+• Search & filtering
+• Shopping cart
+• Checkout
+• Order tracking
+• Order history
+• Admin controls
+
+**Engineering**
+
+• React frontend
+• PHP backend
+• MySQL database
+• REST APIs
+• Validation & error handling
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2>🧩 Engineering Focus</h2>
+## 🧠 ENGINEERING
+
+### What I Work With
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,redux,tailwind,js,php,git,github,postman,docker"/>
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,mysql,tailwind,js,php,git,github,postman,docker"/>
 
 <br><br>
 
-`REST APIs` · `Authentication`
-`RBAC` · `Validation`
-`Error Handling` · `API Security`
+`Authentication`
+
+`Authorization`
+
+`REST APIs`
+
+`CRUD`
+
+`Validation`
+
+`Pagination`
+
+`Search`
+
+`Error Handling`
+
+`API Security`
 
 </td>
 
@@ -204,7 +269,7 @@ End-to-end ordering platform featuring:
 
 <div align="center">
 
-## ⚡ TECH STACK
+# ✦ TECHNOLOGY
 
 <br>
 
@@ -212,58 +277,52 @@ End-to-end ordering platform featuring:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=111827"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=111827"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
 ---
 
+# ✦ ENGINEERING CAPABILITIES
+
 <div align="center">
 
-## 🔐 ENGINEERING CAPABILITIES
-
 <table>
+
 <tr>
-<td align="center">
 
-### AUTHENTICATION
+<td align="center" width="220">
 
-JWT
+## 🔐
+
+### SECURITY
+
+JWT Authentication
 RBAC
 Protected Routes
+API Authorization
 
 </td>
 
-<td align="center">
+<td align="center" width="220">
+
+## ⚡
 
 ### API ENGINEERING
 
 REST APIs
-CRUD
+CRUD Operations
 Validation
 Pagination
 
 </td>
 
-<td align="center">
+<td align="center" width="220">
 
-### BUSINESS LOGIC
-
-Orders
-Payments
-Enrollment
-Analytics
-
-</td>
-
-<td align="center">
+## 💳
 
 ### INTEGRATIONS
 
@@ -272,35 +331,47 @@ Cloudinary
 Nodemailer
 
 </td>
+
+<td align="center" width="220">
+
+## 📊
+
+### BUSINESS SYSTEMS
+
+Dashboards
+Orders
+Payments
+Analytics
+
+</td>
+
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# ✦ HOW I BUILD
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/01_REQUIREMENTS-0F172A?style=for-the-badge"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/02_ARCHITECTURE-0F172A?style=for-the-badge"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/03_ENGINEERING-2563EB?style=for-the-badge"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/04_INTEGRATION-0F172A?style=for-the-badge"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/05_DEPLOYMENT-0F172A?style=for-the-badge"/>
-
-</div>
+# ✦ DEVELOPMENT FLOW
 
 <br>
 
-<div align="center">
+<img src="https://img.shields.io/badge/01%20REQUIREMENTS-0B1120?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/02%20DESIGN-0B1120?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/03%20BUILD-2563EB?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/04%20INTEGRATE-0B1120?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/05%20DEPLOY-0B1120?style=for-the-badge"/>
 
-**Responsive UI**   •   **Clean APIs**   •   **Secure Auth**
-**Reliable Data Flow**   •   **Maintainable Architecture**
+<br><br>
+
+`UI`   `API`   `AUTH`   `DATABASE`   `INTEGRATIONS`   `DEPLOYMENT`
 
 </div>
 
@@ -308,7 +379,7 @@ Nodemailer
 
 <div align="center">
 
-## 📊 GITHUB
+# ✦ GITHUB ACTIVITY
 
 <br>
 
@@ -318,7 +389,7 @@ Nodemailer
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=maryam-bilal2&hide_border=true&background=00000000&stroke=E2E8F0&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=64748B&dates=94A3B8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=maryam-bilal2&hide_border=true&background=00000000&stroke=CBD5E1&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=64748B&dates=94A3B8"/>
 
 </div>
 
@@ -326,17 +397,17 @@ Nodemailer
 
 <div align="center">
 
-## 🚀 CURRENTLY EXPLORING
+# ✦ CURRENTLY EXPLORING
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=nextjs,postgres"/>
 
 <br><br>
 
-`Next.js`   `PostgreSQL`   `System Design`
+### `NEXT.JS`   ·   `POSTGRESQL`   ·   `SYSTEM DESIGN`
 
-<br>
-
-**Moving deeper into scalable architecture and production engineering.**
+**Exploring scalable architecture and production-oriented development.**
 
 </div>
 
@@ -344,11 +415,13 @@ Nodemailer
 
 <div align="center">
 
-# LET'S BUILD SOMETHING GREAT.
+# ✦ LET'S BUILD
 
-### Full Stack / MERN opportunities · Freelance · Collaboration
+### Full Stack / MERN Developer Opportunities
 
-<br>
+`Freelance`   `Collaboration`   `Product Development`
+
+<br><br>
 
 <a href="https://maryamdeveloper.vercel.app/">
 <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -356,16 +429,20 @@ Nodemailer
 
 <br><br>
 
-<a href="mailto:bilalmaryam980@gmail.com">Email</a>
-  ·   <a href="https://linkedin.com/in/maryam-bilal9">LinkedIn</a>
-  ·   <a href="https://github.com/maryam-bilal2">GitHub</a>
+<a href="mailto:bilalmaryam980@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/maryam-bilal9">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br><br>
 
-<sub>Designed & engineered by Maryam Bilal</sub>
+<sub>Building with intention · Engineering with clarity</sub>
+
+<br><br>
 
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1120&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1120&height=190&section=footer"/>
