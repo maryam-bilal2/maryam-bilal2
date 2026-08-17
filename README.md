@@ -1,34 +1,28 @@
 <div align="center">
 
-<br>
-
-# MARYAM BILAL
-
-### FULL STACK DEVELOPER
-
-**I build digital products from interface to infrastructure.**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1120&height=220&section=header&text=MARYAM%20BILAL&fontSize=52&fontColor=F8FAFC&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20STACK&descSize=17&descAlignY=64&descColor=94A3B8"/>
 
 <br>
 
-`REACT`   `NODE.JS`   `EXPRESS`   `MONGODB`   `MYSQL`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Engineering+Secure+REST+APIs;React+%7C+Node.js+%7C+MongoDB;JWT+%7C+RBAC+%7C+Stripe+%7C+Cloudinary"/>
 
 <br><br>
 
 <a href="https://maryamdeveloper.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/maryam-bilal9">
-<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/maryam-bilal2">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1800&color=64748B&center=true&vCenter=true&width=720&lines=Full+Stack+Web+Applications;Secure+REST+APIs;JWT+%2B+RBAC+Architecture;Business+Focused+Software"/>
+<img src="https://komarev.com/ghpvc/?username=maryam-bilal2&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -36,251 +30,173 @@
 
 <div align="center">
 
-### `01 — PROFILE`
+## ✦ BUILDING SOFTWARE THAT SOLVES REAL PROBLEMS
 
-</div>
-
-I'm a **Full Stack Developer with 1 year of hands-on experience** building scalable web applications and business-focused solutions.
-
-I work across the stack — designing responsive interfaces, engineering REST APIs, implementing authentication and authorization, modeling databases, integrating third-party services, and connecting everything into reliable application workflows.
-
-I care about three things:
-
-**clarity in the interface · structure in the code · reliability in the product**
-
----
-
-<div align="center">
-
-### `02 — ENGINEERING MINDSET`
-
-</div>
-
-```text
-              USER EXPERIENCE
-                     │
-                     ▼
-             ┌───────────────┐
-             │   React.js    │
-             │ Redux Toolkit │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   REST API    │
-             │    Express    │
-             └───────┬───────┘
-                     │
-          ┌──────────┴──────────┐
-          ▼                     ▼
-   ┌─────────────┐       ┌─────────────┐
-   │    JWT      │       │    RBAC     │
-   │    AUTH     │       │ AUTHORIZATION│
-   └─────────────┘       └─────────────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   DATABASE    │
-             │ MongoDB/MySQL │
-             └───────┬───────┘
-                     │
-          ┌──────────┼──────────┐
-          ▼          ▼          ▼
-       Stripe    Cloudinary  Nodemailer
-```
-
-**Frontend → API → Business Logic → Security → Database → Integrations**
-
-That's the layer of development I enjoy working in.
-
----
-
-<div align="center">
-
-### `03 — SELECTED WORK`
-
-</div>
-
-## 01 / LEARNING MANAGEMENT SYSTEM
-
-**MERN · Redux Toolkit · JWT · RBAC · Stripe · Cloudinary**
-
-> A full-stack learning platform built around separate Admin, Instructor and Student workflows.
-
-### Product
-
-* Course management & CRUD
-* Enrollment & progress tracking
-* Search, filtering, sorting & pagination
-* Reviews & ratings
-* Admin analytics
-* Responsive dashboard experience
-
-### Engineering
-
-* JWT authentication
-* Role-based access control
-* Protected routes
-* Centralized error handling
-* API security
-* Reusable React architecture
-* Redux Toolkit state management
-* Modular REST API architecture
-
-### Integrations
-
-`STRIPE` `CLOUDINARY` `NODEMAILER`
-
-**Live →** https://learning-management-system-delta-blue.vercel.app/
-
----
-
-## 02 / RESTAURANT MANAGEMENT SYSTEM
-
-**MERN · Redux Toolkit · JWT · RBAC · Tailwind CSS**
-
-> A business management platform designed around restaurant operations, order workflows and administrative control.
-
-### Product
-
-* Menu & category management
-* Cart & order processing
-* Order status tracking
-* Search, filtering & pagination
-* User management
-* Sales & order analytics
-
-### Engineering
-
-* Admin & Staff/User workflows
-* JWT authentication
-* RBAC
-* Protected routes
-* API validation
-* Centralized error handling
-* Loading & empty states
-* Reusable React components
-
-### Integrations
-
-`NODEMAILER` `REST APIs`
-
----
-
-## 03 / ON-DEMAND FOOD DELIVERY
-
-**React · PHP · MySQL · REST APIs · Stripe**
-
-> An end-to-end food delivery application covering browsing, checkout, payments and order management.
-
-### Product
-
-* Restaurant & menu browsing
-* Search & filtering
-* Shopping cart
-* Checkout
-* Order history
-* Order tracking
-* Order status management
-* Admin controls
-
-### Engineering
-
-* Database-driven workflows
-* REST API communication
-* Form validation
-* Error handling
-* Reusable React components
-* Responsive UI
-
-### Integrations
-
-`STRIPE` `MYSQL`
-
----
-
-<div align="center">
-
-### `04 — TECHNOLOGY`
-
-</div>
+<br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="180">
 
-### FRONTEND
+### ⚛️
 
-**React.js**
-**Redux Toolkit**
-**Tailwind CSS**
-**JavaScript**
-**HTML5 / CSS3**
-**Responsive Design**
+**FRONTEND**
+
+React.js
+Redux Toolkit
+Tailwind CSS
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="180">
 
-### BACKEND
+### ⚙️
 
-**Node.js**
-**Express.js**
-**REST APIs**
-**JWT Authentication**
-**PHP**
+**BACKEND**
+
+Node.js
+Express.js
+REST APIs
+
+</td>
+
+<td align="center" width="180">
+
+### 🔐
+
+**SECURITY**
+
+JWT
+RBAC
+Protected APIs
+
+</td>
+
+<td align="center" width="180">
+
+### 🗄️
+
+**DATA**
+
+MongoDB
+Mongoose
+MySQL
 
 </td>
 </tr>
+</table>
 
+</div>
+
+---
+
+# ✦ SELECTED WORK
+
+<table>
 <tr>
-<td valign="top">
 
-### DATA
+<td width="50%" valign="top">
 
-**MongoDB**
-**Mongoose**
-**MySQL**
+<h2>🎓 Learning Management System</h2>
+
+<img src="https://img.shields.io/badge/MERN-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/RBAC-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stripe-2563EB?style=flat-square"/>
+
+<br><br>
+
+Role-based learning platform with:
+
+* Admin / Instructor / Student
+* Course CRUD
+* Enrollment & progress
+* Search & filtering
+* Reviews & ratings
+* Analytics dashboard
+* Protected APIs
+* Cloudinary uploads
+* Email workflows
+
+<br>
+
+<a href="https://learning-management-system-delta-blue.vercel.app/">
+<img src="https://img.shields.io/badge/↗%20LIVE%20PROJECT-2563EB?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### ENGINEERING
+<h2>🍽️ Restaurant Management</h2>
 
-**RBAC**
-**API Validation**
-**Error Handling**
-**Protected Routes**
-**API Security**
+<img src="https://img.shields.io/badge/MERN-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/RBAC-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redux-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tailwind-2563EB?style=flat-square"/>
+
+<br><br>
+
+Business management platform with:
+
+* Admin & Staff workflows
+* Menu management
+* Cart & orders
+* Order tracking
+* Sales analytics
+* User management
+* Search & pagination
+* Protected routes
+* API validation
+* Email notifications
 
 </td>
+
 </tr>
 
 <tr>
-<td valign="top">
 
-### INTEGRATIONS
+<td width="50%" valign="top">
 
-**Stripe**
-**Cloudinary**
-**Nodemailer**
+<h2>🍔 Food Delivery App</h2>
+
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/PHP-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stripe-2563EB?style=flat-square"/>
+
+<br><br>
+
+End-to-end ordering platform featuring:
+
+* Restaurant browsing
+* Search & filtering
+* Shopping cart
+* Checkout
+* Stripe payments
+* Order history
+* Order tracking
+* Admin controls
+* Database-driven workflows
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### TOOLING
+<h2>🧩 Engineering Focus</h2>
 
-**Git**
-**GitHub**
-**Postman**
-**VS Code**
-**Docker**
-**Hostinger**
-**cPanel**
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,redux,tailwind,js,php,git,github,postman,docker"/>
+
+<br><br>
+
+`REST APIs` · `Authentication`
+`RBAC` · `Validation`
+`Error Handling` · `API Security`
 
 </td>
+
 </tr>
 </table>
 
@@ -288,63 +204,22 @@ That's the layer of development I enjoy working in.
 
 <div align="center">
 
-### `05 — HOW I APPROACH A PRODUCT`
-
-</div>
-
-```text
-01  Understand
-    ↓
-    Requirements → Users → Business Logic
-
-02  Design
-    ↓
-    UI → Components → Data Flow → API Contract
-
-03  Engineer
-    ↓
-    Frontend → Backend → Database → Authentication
-
-04  Integrate
-    ↓
-    Payments → Media → Email → External Services
-
-05  Harden
-    ↓
-    Validation → Error Handling → Protected Routes
-
-06  Deliver
-    ↓
-    Git → Testing → Environment → Deployment
-```
-
----
-
-<div align="center">
-
-### `06 — CURRENTLY EXPLORING`
-
-</div>
-
-**NEXT.JS**   ·   **POSTGRESQL**   ·   **SYSTEM DESIGN**
-
-Currently expanding my knowledge toward **scalable application architecture and production-oriented development workflows.**
-
----
-
-<div align="center">
-
-### `07 — GITHUB`
+## ⚡ TECH STACK
 
 <br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maryam-bilal2&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bilal2&layout=compact&hide_border=true&theme=transparent"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,php,git,github,postman,vscode,docker"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=maryam-bilal2&theme=transparent&hide_border=true"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=111827"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 </div>
 
@@ -352,29 +227,145 @@ Currently expanding my knowledge toward **scalable application architecture and 
 
 <div align="center">
 
-### `08 — LET'S BUILD`
+## 🔐 ENGINEERING CAPABILITIES
+
+<table>
+<tr>
+<td align="center">
+
+### AUTHENTICATION
+
+JWT
+RBAC
+Protected Routes
+
+</td>
+
+<td align="center">
+
+### API ENGINEERING
+
+REST APIs
+CRUD
+Validation
+Pagination
+
+</td>
+
+<td align="center">
+
+### BUSINESS LOGIC
+
+Orders
+Payments
+Enrollment
+Analytics
+
+</td>
+
+<td align="center">
+
+### INTEGRATIONS
+
+Stripe
+Cloudinary
+Nodemailer
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# ✦ HOW I BUILD
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01_REQUIREMENTS-0F172A?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/02_ARCHITECTURE-0F172A?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/03_ENGINEERING-2563EB?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/04_INTEGRATION-0F172A?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/05_DEPLOYMENT-0F172A?style=for-the-badge"/>
+
+</div>
 
 <br>
 
-**Open to Full Stack / MERN Developer opportunities,
-freelance projects and meaningful collaborations.**
+<div align="center">
+
+**Responsive UI**   •   **Clean APIs**   •   **Secure Auth**
+**Reliable Data Flow**   •   **Maintainable Architecture**
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB
+
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maryam-bilal2&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=2563EB&text_color=64748B&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bilal2&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=64748B"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=maryam-bilal2&hide_border=true&background=00000000&stroke=E2E8F0&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=64748B&dates=94A3B8"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 CURRENTLY EXPLORING
+
+<img src="https://skillicons.dev/icons?i=nextjs,postgres"/>
+
+<br><br>
+
+`Next.js`   `PostgreSQL`   `System Design`
+
+<br>
+
+**Moving deeper into scalable architecture and production engineering.**
+
+</div>
+
+---
+
+<div align="center">
+
+# LET'S BUILD SOMETHING GREAT.
+
+### Full Stack / MERN opportunities · Freelance · Collaboration
 
 <br>
 
 <a href="https://maryamdeveloper.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="mailto:bilalmaryam980@gmail.com">EMAIL</a>
-  ·   <a href="https://linkedin.com/in/maryam-bilal9">LINKEDIN</a>
-  ·   <a href="https://github.com/maryam-bilal2">GITHUB</a>
+<a href="mailto:bilalmaryam980@gmail.com">Email</a>
+  ·   <a href="https://linkedin.com/in/maryam-bilal9">LinkedIn</a>
+  ·   <a href="https://github.com/maryam-bilal2">GitHub</a>
 
 <br><br>
 
----
-
-### `Build with intention. Engineer with clarity.`
+<sub>Designed & engineered by Maryam Bilal</sub>
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1120&height=120&section=footer"/>
